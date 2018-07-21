@@ -1,6 +1,4 @@
 # hello-world
-Edits for readme
-
 Getting started with GitHub
 
-End of edits
+Simple "Hello World!" app in Python 3
